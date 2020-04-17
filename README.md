@@ -38,8 +38,8 @@
     - `hn_female_thutrang_phrase_48k-hsmm`
     - `sg_female_thaotrinh_dialog_48k-hsmm`
     - `sg_female_thaotrinh_dialog_48k-hsmm`
-    
-  Danh sách mã giọng đọc *nâng cao*:
+ 
+    Danh sách mã giọng đọc *nâng cao*:
     - `sg_female_lantrinh_news_48k-d`
     - `sg_male_minhhoang_news_48k-d`
     - `sg_female_thaotrinh_news_48k-d`
